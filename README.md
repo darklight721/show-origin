@@ -8,6 +8,7 @@ Idea from: [Every line of code is always documented](http://mislav.uniqpath.com/
 ### Usage
 
 First, make sure your project is on git.
+
 1. Select a line in your code.
 2. Press `ctrl-shift-o` to show the origin. Or right click and select `Show origin of line`.
 
