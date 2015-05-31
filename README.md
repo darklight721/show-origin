@@ -10,7 +10,7 @@ Idea from: [Every line of code is always documented](http://mislav.uniqpath.com/
 First, make sure your project is on git.
 
 1. Select a line in your code.
-2. Press `ctrl-shift-o` to show the origin. Or right click and select `Show origin of line`.
+2. Press `ctrl-alt-o` to show the origin. Or right click and select `Show origin of line`.
 
 To customize the keymap of this package, add `show-origin:show` command to your `keymap.cson`.
 
