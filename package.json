@@ -1,7 +1,7 @@
 {
   "name": "show-origin",
   "main": "./lib/index.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shows the origin of a line in the git repo",
   "keywords": [
     "git",
