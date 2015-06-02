@@ -16,4 +16,4 @@ To customize the keymap of this package, add `show-origin:show` command to your 
 
 ### Screenshot
 
-![Screenshot](http://i.imgur.com/c69Hebc.gif)
+![Screenshot](http://i.imgur.com/Bs9S1Yl.gif)
