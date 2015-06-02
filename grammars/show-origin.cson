@@ -1,0 +1,17 @@
+'scopeName': 'source.origin'
+'name': 'Show Origin'
+'fileTypes': ['origin']
+'patterns': [
+  {
+    'match': '^(?:commit\\s\\w+)|(?:diff --git.*)'
+    'name': 'meta.header.origin'
+  },
+  {
+    'match': '^\\+(?!\\+\\+).*'
+    'name': 'meta.addition.origin'
+  }
+  {
+    'match': '^-(?!--).*'
+    'name': 'meta.deletion.origin'
+  }
+]

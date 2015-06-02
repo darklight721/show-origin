@@ -1,0 +1,17 @@
+@import "ui-variables";
+
+atom-text-editor::shadow {
+  .source.origin .meta{
+    &.header {
+      color: @text-color-info;
+    }
+
+    &.addition {
+      color: @text-color-success;
+    }
+
+    &.deletion {
+      color: @text-color-error;
+    }
+  }
+}
