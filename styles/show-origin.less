@@ -1,16 +1,16 @@
 @import "ui-variables";
 
-atom-text-editor::shadow {
-  .source.origin .meta{
-    &.header {
+atom-text-editor.editor {
+  .syntax--source.syntax--origin .syntax--meta{
+    &.syntax--header {
       color: @text-color-info;
     }
 
-    &.addition {
+    &.syntax--addition {
       color: @text-color-success;
     }
 
-    &.deletion {
+    &.syntax--deletion {
       color: @text-color-error;
     }
   }
